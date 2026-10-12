@@ -18,7 +18,7 @@
 | [DHT11](https://www.mercadolibre.com.ec/dht11-sensor-de-temperatura-humedad-dht-11-arduino/p/MEC32624358#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=7&) | Environmental sensor | 1 | $2.75 | $2.75 | [Mercadolibre](https://www.mercadolibre.com.ec/dht11-sensor-de-temperatura-humedad-dht-11-arduino/p/MEC32624358#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=7&) |
 | [MX Switches](https://www.temu.com/ec/kit-de-repuesto-de-interruptores-de-do-mecanico--para-reemplazar-piezas-danadas-de-interruptores-de-do-mecanico-desmontables-una-herramienta-para-tocar--que-se--a-las-necesidades-de-diferentes--de--g-605501937006272.html) | Button functionality | 1 | $1.56 | $1.56 | [Temu](https://www.temu.com/ec/kit-de-repuesto-de-interruptores-de-do-mecanico--para-reemplazar-piezas-danadas-de-interruptores-de-do-mecanico-desmontables-una-herramienta-para-tocar--que-se--a-las-necesidades-de-diferentes--de--g-605501937006272.html) |
 | **Parts subtotal** | — | — | — | **$28.48** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.48** | — |
+| **Tax & shipping** | — | — | — | **$8.00** | — |
+| **Total** | — | — | — | **$36.48** | — |
 
-$1.52 left of the tier's funding.
+**$6.48 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
