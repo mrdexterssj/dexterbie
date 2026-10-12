@@ -16,7 +16,7 @@
 | [0.96 OLED](https://www.temu.com/ec/-de-pantalla-oled-de-0-96-pulgadas--128x64-----g-601099658217397.html) | Main display | 1 | $3.58 | $3.58 | [Temu](https://www.temu.com/ec/-de-pantalla-oled-de-0-96-pulgadas--128x64-----g-601099658217397.html) |
 | [MPU6050](https://www.temu.com/ec/-de-sensor-gy-521-mpu6050-de-2-piezas-interfaz-digital-iic-i2c-convertidor-ad-de-16-bits--de--de--para-proyectos-electronicos-diy-con-microcontrolador-g-605971430644580.html) | Detecting movement | 1 | $6.43 | $6.43 | [Temu](https://www.temu.com/ec/-de-sensor-gy-521-mpu6050-de-2-piezas-interfaz-digital-iic-i2c-convertidor-ad-de-16-bits--de--de--para-proyectos-electronicos-diy-con-microcontrolador-g-605971430644580.html) |
 | **Parts subtotal** | — | — | — | **$24.17** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$34.17** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$29.17** | — |
 
-**$4.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.83 left of the tier's funding.
