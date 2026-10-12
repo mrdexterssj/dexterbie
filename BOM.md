@@ -19,7 +19,7 @@
 | [MX Switches](https://www.temu.com/ec/kit-de-repuesto-de-interruptores-de-do-mecanico--para-reemplazar-piezas-danadas-de-interruptores-de-do-mecanico-desmontables-una-herramienta-para-tocar--que-se--a-las-necesidades-de-diferentes--de--g-605501937006272.html) | Button functionality | 1 | $1.56 | $1.56 | [Temu](https://www.temu.com/ec/kit-de-repuesto-de-interruptores-de-do-mecanico--para-reemplazar-piezas-danadas-de-interruptores-de-do-mecanico-desmontables-una-herramienta-para-tocar--que-se--a-las-necesidades-de-diferentes--de--g-605501937006272.html) |
 | [PCB](https://www.jlcpcb.com/) | The body that holds the components | 1 | $8.50 | $8.50 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$36.98** | — |
-| **Tax & shipping** | — | — | — | **$8.00** | — |
-| **Total** | — | — | — | **$44.98** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$36.98** | — |
 
-**$14.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
