@@ -23,6 +23,8 @@ Some of the products aren't listed in the Parts List of the website, that's beca
 * PCB: Shipping costs a lot (approx. $35), so I'll pay for it by myself
 * DHT11: I have a physical store where I can buy it
 * Resistors: I have a physical store where I can buy them
+## Why is there no Tax & Shipping cost listed in the website?
+Temu offers free shipping to my address, and taxes aren't significant unless customs requires extra payments
 
 # Links
 
