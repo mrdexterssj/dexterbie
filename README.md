@@ -18,6 +18,12 @@ This project includes the 3D Models, Imported Parts.prety and kicad_mod files pr
 
 Inside /dexterbie you can find the kicad project directory, containing the schematic, PCB layout and other files.
 
+# Note
+Some of the products aren't listed in the Parts List of the website, that's because the shipping costs are too high, or because I have easy access to them in physical stores:
+* PCB: Shipping costs a lot (approx. $35), so I'll pay for it by myself
+* DHT11: I have a physical store where I can buy it
+* Resistors: I have a physical store where I can buy them
+
 # Links
 
 * Lapse 1: https://lapse.hackclub.com/timelapse/XROP2Fo1KQ4o
