@@ -31,4 +31,17 @@ Temu offers free shipping to my address, and taxes aren't significant unless cus
 * Lapse 1: https://lapse.hackclub.com/timelapse/XROP2Fo1KQ4o
 * Lapse 2: https://lapse.hackclub.com/timelapse/xe5cPkiZCGmo
 * Lapse 3: https://lapse.hackclub.com/timelapse/F-Lf61B5Ms0S
-* Lapse 4: Recording as of 11/10/26 21:05 GMT -5
+* For more, check JOURNAL.md
+
+# Screenshots
+<img width="474" height="516" alt="image" src="https://github.com/user-attachments/assets/edd6838c-96bf-420d-be16-80988b6ef0b7" />
+
+PCB editor overview
+
+<img width="474" height="516" alt="image" src="https://github.com/user-attachments/assets/90fa9380-ff19-499a-a8ea-e450d979120a" />
+
+Front render
+
+<img width="474" height="516" alt="image" src="https://github.com/user-attachments/assets/ae7fce68-c731-4c31-b8a4-11e93f5e46e2" />
+
+Back render
