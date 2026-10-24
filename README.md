@@ -61,3 +61,8 @@ Front render
 <img width="474" height="516" alt="image" src="https://github.com/user-attachments/assets/ae7fce68-c731-4c31-b8a4-11e93f5e46e2" />
 
 Back render
+
+<img width="801" height="444" alt="image" src="https://github.com/user-attachments/assets/6e9f3067-f568-43b2-a0d0-7f2b87f50670" />
+
+Schematic preview
+
